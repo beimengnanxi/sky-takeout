@@ -8,16 +8,16 @@ sky:
     password: 123456
 
   alioss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tJEy1GKg7DuhdWW4Xw9
-    access-key-secret: xpbpZ38ZVJ0JbdATMROFsze6gmquMR
+    endpoint:
+    access-key-id:
+    access-key-secret:
     bucket-name: sky-takeout-beimeng
 
   redis:
     host: localhost
     port: 6379
-    password: 123456
+    password:
     database: 1
   wechat:
-    appid: wxb4ff5a9db00dc0e0
-    secret: d47a62e8943709f18fb1805c79a96438
+    appid:
+    secret:
