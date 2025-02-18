@@ -10,7 +10,7 @@ sky:
   alioss:
     endpoint:
     access-key-id:
-    access-key-secret:
+
     bucket-name: sky-takeout-beimeng
 
   redis:
@@ -20,4 +20,4 @@ sky:
     database: 1
   wechat:
     appid:
-    secret:
+
